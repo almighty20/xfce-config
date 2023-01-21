@@ -17,7 +17,7 @@
 - 😄thank you....:)
 
 
-- Clone this repository & run rxfetch.
+- 🔭Clone this repository & get ur Beautiful XFCE Rice.
 
 ```yaml
 # clones the xfce-config repo
