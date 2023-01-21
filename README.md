@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Make XFCE Look Good⚡👀👀 <h1>
+<h1>Make XFCE Look Good⚡👀 <h1>
 
 
 <br>
