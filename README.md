@@ -1,3 +1,10 @@
+<div align="center">
+<h1>Make XFCE Look good <h1>
+
+
+<br>
+
+</div>
 ### 👋 Hi there, I’m @singh-vikal .
 
 
@@ -8,3 +15,19 @@
 - then select the theme and icon using application.
 - set the wallpaper u like.
 - thank you....:)
+
+
+- Clone this repository & run rxfetch.
+
+```yaml
+# clones the xfce-config repo
+$ git clone https://github.com/singh-vikal/xfce-config
+# cd in xfce-config
+$ cd xfce-config
+# just copy files to ur home respective folders.
+  
+
+# then select the theme and icon using application.
+# set wallpaper you like
+# enjoy your beautiful XFCE
+```
