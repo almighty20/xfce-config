@@ -1,11 +1,20 @@
+# VIKAL SINGH dotfiles
+
+<img title="Rice" src="images/Linux Rice.png" alt="">
+
+| Type                | Choice         |
+| ------------------- | -------------- |
+| Shell               | Bash           |
+| Prompt              | Starship with a Pure-like theme |
+| Color scheme        | Adwaita |
+| Distribution        | Debian Testing      |
+| Desktop Environment |      XFCE    |
+| IDE                 | Geany, Nano, VSCod, Neovim  |
+| Web Browser         | Firefox        |
+| Terminal            | kitty & Xfce4-terminal      |
 <div align="center">
-<h1>Make XFCE Look Good⚡👀 <h1>
-
-
-<br>
-
+<h4>Make XFCE Look Good⚡👀 <h1>
 </div>
-### 👋 Hi there, I’m @singh-vikal .
 
 
 # xfce4-config
