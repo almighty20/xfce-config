@@ -1,4 +1,4 @@
-# VIKAL SINGH dotfiles
+# VIKAL SINGH'S Config
 
 <img title="Rice" src="screenshot/Debian-Testing - VMware Workstation 21-01-2023 15_32_04.png" alt="">
 
